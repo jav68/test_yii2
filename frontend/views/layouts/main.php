@@ -28,7 +28,7 @@ AppAsset::register($this);
 <div class="wrap">
     <?php
     NavBar::begin([
-        'brandLabel' => 'My Company',
+        'brandLabel' => 'Books',
         'brandUrl' => '/books/index',
         'options' => [
             'class' => 'navbar-inverse navbar-fixed-top',
